@@ -9,7 +9,7 @@
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
 	$dbHost = getenv('DB_HOST'); //MySQL Hostname
 	$dbUser = getenv('DB_USERNAME'); //MySQL Username
-    $dbPass = getenv('DB_PASSWORD'); //MySQL Password
+        $dbPass = getenv('DB_PASSWORD'); //MySQL Password
 	$dbName = getenv('DB_NAME'); //MySQL Database Name
 
 
